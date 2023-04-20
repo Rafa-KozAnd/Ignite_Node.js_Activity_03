@@ -1,4 +1,15 @@
-# Ignite Rentx
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Ignite_React-Native_Activity_03">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/Ignite_React-Native_Activity_03">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Ignite_React-Native_Activity_03">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Ignite_React-Native_Activity_03">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Ignite_React-Native_Activity_03">
+</p>
+
+# Ignite_React-Native_Activity_03
+
+Node JS activity done with 'Rocketseat' Ignite course. ("Chapter III")
 
 ## Cadastro de carro
 
@@ -59,3 +70,7 @@ ________________________________________________________________________________
  - Não deve ser possível cadastrar um novo aluguel, caso já exista um aberto para o mesmo usuário.
  - Não deve ser possível cadastrar um novo aluguel, caso já exista um aberto para o mesmo carro.
  - O usuário deve estar logado na aplicação.
+ 
+ ## 💻 Sobre o capítulo III - Continuando a aplicação.
+ 
+ Daremos início à nossa aplicação principal criando a base do app com autenticação, cadastro, upload de avatar, etc. utilizando um banco de dados relacional e conheceremos conceitos e ferramentas como Docker, TypeORM, JWT e bcrypt.
