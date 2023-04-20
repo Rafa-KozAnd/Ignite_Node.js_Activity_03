@@ -1,13 +1,13 @@
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Ignite_React-Native_Activity_03">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/Ignite_React-Native_Activity_03">
-  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Ignite_React-Native_Activity_03">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Ignite_React-Native_Activity_03">
-  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Ignite_React-Native_Activity_03">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Ignite_Node.js_Activity_03">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/Ignite_Node.js_Activity_03">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Ignite_Node.js_Activity_03">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Ignite_Node.js_Activity_03">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Ignite_Node.js_Activity_03">
 </p>
 
-# Ignite_React-Native_Activity_03
+# Ignite_Node.js_Activity_03
 
 Node JS activity done with 'Rocketseat' Ignite course. ("Chapter III")
 
